@@ -5,17 +5,28 @@
 This Python project implements an advanced version of the classic Hangman game, featuring a user-friendly console interface, customizable settings, and support for multiple languages.
 
 -----
+<pre>                                        
+_ R E E _ _ _   I S   S _ A _ E R _               wWWWw
+                                                  (___) wWWWw                vVVVv
+Available letters:                                 ~Y~  (___)                (___)
+    C D   F G H                                    \|    ~Y~            |     ~Y~
+J K L M N O   Q                               |   \ |/   \| /           |    \ |/
+  T U V   X Y Z                             \\|// \\|// \\|/// \\|//  \\|// \\\|///
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+You have 3 wrong guesses left
+</pre>
+-----
 
 ## Features
 
 - **Multi-Language Support**: The game supports both English and German, with the ability to easily add additional languages. Each language has custom messages and labels, ensuring a smooth user experience.
 
-- **Difficulty Levels**: Players can choose from various difficulty levels:
-  - **Easy**: Handpicked words.
-  - **Medium**: Random nouns.
-  - **Hard**: Random words or sentences.
-  - **Custom**: Users can input their own solution.
-  - **1984 Mode**: Uses sentences from Orwell's *1984*, adding a unique thematic challenge.
+- **Difficulty Levels**: Players can choose from various difficulty levels, including:
+  - Handpicked words.
+  - Random nouns.
+  - Random words or sentences.
+  - Custom user input.
+  - Sentences from Orwell's *1984*, adding a unique thematic challenge.
 
 - **Multiple Illustrations**: The game includes different visual representations for the hangman, such as:
   - Classic Hangman Figure.
@@ -56,7 +67,7 @@ This Python project implements an advanced version of the classic Hangman game, 
 ## How to Play
 
 1. **Start the Game**:
-   - Run the script in Google Colab. The game will welcome you with a stylized header.
+   - Run the script online using Google Colab or locally as a Jupyter notebook. The game will welcome you with a stylized header.
 
 2. **Choose Settings**:
    - Select the difficulty level or change the language and visual style. 
@@ -71,4 +82,4 @@ This Python project implements an advanced version of the classic Hangman game, 
 
 ## Installation and Setup
 
-No additional setup is required. The necessary `pip install` calls are included in the Colab file.
+All necessary `pip install` calls are included in the notebook file. No additional setup is required. 
