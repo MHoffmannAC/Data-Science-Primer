@@ -5,6 +5,37 @@
 This Python project implements an advanced version of the classic Hangman game, featuring a user-friendly console interface, customizable settings, and support for multiple languages.
 
 -----
+
+### Settings:
+<pre>
+██   ██  █████  ███    ██  ██████  ███    ███  █████  ███    ██ 
+██   ██ ██   ██ ████   ██ ██       ████  ████ ██   ██ ████   ██ 
+███████ ███████ ██ ██  ██ ██   ███ ██ ████ ██ ███████ ██ ██  ██ 
+██   ██ ██   ██ ██  ██ ██ ██    ██ ██  ██  ██ ██   ██ ██  ██ ██ 
+██   ██ ██   ██ ██   ████  ██████  ██      ██ ██   ██ ██   ████
+
+Available difficulties:
+1:    Words - easy   (handpicked)
+2:    Words - medium (random nouns)
+3:    Words - hard   (random words)
+4:    Sentence - hard (often gibberish)
+5:    Use user input as solution
+1984: Doublethink sentences
+
+Available languages:
+en: english
+de: deutsch
+
+Available illustrations:
+hangman: Classical hangman figure
+flowers: Field of flowers
+chase:   Police chase
+
+Enter difficulty to start a new game
+or choose different language or illustration
+</pre>
+
+### Game screen:
 <pre>                                        
 _ R E E _ _ _   I S   S _ A _ E R _               wWWWw
                                                   (___) wWWWw                vVVVv
