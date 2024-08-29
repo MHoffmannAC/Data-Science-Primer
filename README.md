@@ -1,0 +1,3 @@
+# Small Hangman project written in Python during the WBS Data Science Primer
+
+## details will follow...
