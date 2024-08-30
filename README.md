@@ -98,7 +98,7 @@ You have 3 wrong guesses left
 ## How to Play
 
 1. **Start the Game**:
-   - Run the script online using Google Colab or locally as a Jupyter notebook. The game will welcome you with a stylized header.
+   - Run the script online using Google Colab or locally as a Jupyter notebook.
 
 2. **Choose Settings**:
    - Select the difficulty level or change the language and visual style. 
@@ -113,4 +113,6 @@ You have 3 wrong guesses left
 
 ## Installation and Setup
 
-All necessary `pip install` calls are included in the notebook file. No additional setup is required. 
+All necessary `pip install` calls are included in the notebook file. No additional setup is required.
+
+The game was carefully tested using `Python 3.10.12` on Google Colab.
