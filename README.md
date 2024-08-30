@@ -23,12 +23,12 @@ Available difficulties:
 1984: Doublethink sentences
 
 Available languages:
-**en: english**
+en: english
 de: deutsch
 
 Available illustrations:
 hangman: Classical hangman figure
-**flowers: Field of flowers**
+flowers: Field of flowers
 chase:   Police chase
 
 Enter difficulty to start a new game
